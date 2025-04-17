@@ -49,7 +49,7 @@ The **Eyecandies dataset** can be downloaded from the [Official Website of Eyeca
 
 After downloading, move the dataset to the `data` folder.
 
-### Data Preprocess
+### Data Preprocessing
 
 To run the preprocessing for background removal and resizing, run the following command:
 
