@@ -75,4 +75,4 @@ If you find this repository useful for your research, please use the following c
 
 ## Acknowledgement
 
-This repo is based on **SimpleNet** ([link](https://github.com/DonaldRR/SimpleNet)) and **M3DM** ([link](https://github.com/nomewang/M3DM)), and we thank them for their great work.
+This repo is based on [SimpleNet](https://github.com/DonaldRR/SimpleNet) and M3DM(https://github.com/nomewang/M3DM), and we thank them for their great work.
